@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/author-%E5%BD%93%E5%BD%93%E5%BD%93-%2304AA6D?style=flat-square) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pys876121546.vue3-ts-template?style=flat-square) ![](https://img.shields.io/github/last-commit/pys876121546/vue3-ts-template?style=flat-square)  ![](https://img.shields.io/packagist/stars/pys876121546/vue3-ts-template?style=flat-square)
 
-English/[简体中文]()
+English/[简体中文](./README.zh-cn.md)
 
 This template is built using vue3+typescript+vite, And added common dependencies.
 The aim is to help front-end developers build projects quickly,Start developing the business.
@@ -36,7 +36,7 @@ pnpm run build
 
 ## Eslint
 
-Use eslint to check your project, let it Healthier
+Use eslint to check your project, make it Healthier
 
 ```shell
 pnpm run lint
@@ -44,7 +44,7 @@ pnpm run lint
 
 ## LICENSE
 
-[BSD](https://github.com/pys876121546/vue3-ts-template/blob/master/LICENSE) © 当当当
+[BSD](./LICENSE) © 当当当
 
 ## Currently add dependencies
 
@@ -57,7 +57,7 @@ pnpm run lint
 - [moment](https://momentjs.com/)
 - [lodash](https://lodash.com/)
 
-## Features that are currently supported
+## Current function
 
 - The use of tsx components
 - Request interceptor and response interceptor
