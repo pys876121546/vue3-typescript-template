@@ -66,7 +66,7 @@ pnpm run lint
 - Mock analog interface data
 - Routing guard
 - Management of state mechanism
-- Encapsulation of some simple methods(look at utils/commin.ts specifically)
+- Encapsulation of some simple methods(look at [utils/common.ts](./src/utils/common.ts) specifically)
 - Encapsulation of LocalStorage
 - Full support for typescript
 - Environment configuration(support dev, preview, releases, test)

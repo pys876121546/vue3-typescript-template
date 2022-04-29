@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/author-%E5%BD%93%E5%BD%93%E5%BD%93-%2304AA6D?style=flat-square) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pys876121546.vue3-ts-template?style=flat-square) ![](https://img.shields.io/github/last-commit/pys876121546/vue3-ts-template?style=flat-square)  ![](https://img.shields.io/packagist/stars/pys876121546/vue3-ts-template?style=flat-square)
 
-[English](https://github.com/pys876121546/vue3-ts-template/blob/master/README.md) / 简体中文
+[English](./README.md) / 简体中文
 
 该模板是使用VUE3+TYPESCRIPT+VITE构建的，并添加了公共依赖。其目的是帮助前端开发快速搭建项目，开始开发业务。
 
@@ -43,7 +43,7 @@ pnpm run lint
 
 ## 开源信息
 
-[BSD](https://github.com/pys876121546/vue3-ts-template/blob/master/LICENSE) © 当当当
+[BSD](./LICENSE) © 当当当
 
 ## 目前已经使用的依赖
 
@@ -65,7 +65,7 @@ pnpm run lint
 - Mock模拟接口数据
 - 路由守卫
 - 状态机的管理
-- 封装了一些简单的方法(具体请看utils/commin.ts)
+- 封装了一些简单的方法(具体请看[utils/common.ts](./src/utils/common.ts))
 - LocalStorage的简单封装
 - 全面支持Typescript
 - 环境配置(支持dev, preview, releases, test)
