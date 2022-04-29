@@ -81,7 +81,7 @@ package managers: pnpm
 ## End
 
 I hope this template can help front-end developers solve some pain points in the project, but so far the template has only completed the basic functions.
-If you have any good suggestions or my code has any problems can give positive feedback. Let's build a useful vue3 template together.
+If you have any good suggestions or any problems with my code can give positive feedback. Let's build a better vue3 template together.
 
 
 ## Thank you for your attention.
